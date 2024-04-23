@@ -8,6 +8,7 @@ Proficiencies:
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/JUNIT-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="JUnit">
 </div>
 
 [linkedin]: https://www.linkedin.com/in/jakehatchell/
